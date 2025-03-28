@@ -33,7 +33,7 @@ Para executar o projeto, você precisa de:
 Clone este repositório para o seu ambiente local:
 
 bash:
-git clone https://github.com/seu-usuario/dashboard-rede.git
+git clone https://github.com/gabrielm2001/dashboard-rede.git
 
 ## Instalando as Dependências
 
@@ -96,4 +96,4 @@ Este projeto está licenciado sob a Licença MIT.
 ## Autor(es)
 
 **Gabriel Machado** – Desenvolvimento e implementação do projeto.
-**mILA fERRARI** – Desenvolvimento e implementação do projeto.
+**Mila Ferrari** – Desenvolvimento e implementação do projeto.
